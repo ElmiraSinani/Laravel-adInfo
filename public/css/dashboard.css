@@ -1,0 +1,39 @@
+.navbar-dark{
+    z-index: 2;
+}
+.sidebar {
+   
+    background: #eee;
+    padding-top: 60px;
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+}
+.removeOption{
+    font-size: 1.5em;
+    line-height: 1.3;
+    margin-top: 5px;
+    display: inline-block;
+    float: right;
+}
+
+.modal-content{
+    border: 4px solid #0480be;
+}
+.modal-dialog .modal-content .modal-header {
+    padding: 9px 15px;
+    background-color: #0480be;
+    border-radius: 0;
+}
+
+
+.dateTime-block label{
+    font-weight: bold;
+    margin-bottom:0;
+}
+.dateTime-block input{
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #999;
+    margin-bottom: 20px;
+}
+
+
